@@ -1,2 +1,2 @@
 # Airbnb-Bookings-Analysis
-Analyzing the data Airbnb Bookings
+Analyzing the data of Airbnb Bookings
