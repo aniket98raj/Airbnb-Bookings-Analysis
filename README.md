@@ -1,10 +1,10 @@
 # Airbnb EDA Project
 This is the Capstone project which is a part of my Data Science training at AlmaBetter.
 
-Link to Tableau Dashboard:
+# Link to Tableau Dashboard:
 https://public.tableau.com/views/AirbnbDashboard_16749377287470/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
-Summary of this Project-
+# Summary of this Project-
 
 Airbnb is an online marketplace that connects people who want to rent out their homes with people who are looking for accommodations in that locale. It currently covers more than 100,000 cities and 220 countries worldwide. For hosts, it's a way to earn money while protecting their property from potential damage. However, for guests, it's a risky venture that they should avoid.
 
